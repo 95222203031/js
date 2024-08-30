@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+table{
+
+}
+tr ,th {
+    width: fit-content;
+     border-collapse: collapse;
+    background-color: azure;
+}
+th,td{
+    padding:4px ;
+    border: 1px solid;
+}
+
+style
+        body{
+            background-image:url(future.jpg); background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
